@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Upare</h1>
 <h3 align="center">"Empowering Seamless Software Delivery with Automation and Efficiency"</h3>
-<img align="right"alt="DevOps Engineer"width="400"src="https://iconscout.com/lottie-animation/devops-engineer-11227408">
+<img align="right"alt="DevOps"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 - 👨‍💻 All of my Hashnode blogs [https://vaibhav342.hashnode.dev/](https://vaibhav342.hashnode.dev/)
 
