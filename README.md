@@ -4,9 +4,9 @@
 <img align="right"alt="DevOps"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 👨‍💻 All of my Hashnode blogs [https://vaibhav342.hashnode.dev/](https://vaibhav342.hashnode.dev/)
+- 👨‍💻 All of my Hashnode blogs (https://medium.com/@swethakanaladevops)
 
-- 📫 How to reach me **vaibhavupare757@gmail.com**
+- 📫 How to reach me **swethakanaladevops@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
