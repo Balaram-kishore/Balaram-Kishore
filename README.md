@@ -1,5 +1,5 @@
 ![logo](https://github.com/vaibhav0342/vaibhav0342/blob/main/Blue%20%26%20white%20minimal%20linkedin%20profile%20cover%20image.png)
-<h1 align="center">Hi 👋, I'm Vaibhav Upare</h1>
+<h1 align="center">Hi 👋, I'm Swetha Kanala</h1>
 <h3 align="center">"Empowering Seamless Software Delivery with Automation and Efficiency"</h3>
 <img align="right"alt="DevOps"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaibhav upare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav upare" height="30" width="40" /></a>
-<a href="https://instagram.com/27vaibhav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="27vaibhav10" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/swetha-kanala-7a529a2a9/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha kanala" height="30" width="40" /></a>
+<a href="(https://www.instagram.com/swethathummala_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="27vaibhav10" height="30" width="40" /></a>
 <a href="https://hashnode.com/vaibhav upare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vaibhav upare" height="30" width="40" /></a>
 </p>
 
