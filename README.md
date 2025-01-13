@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm SWETHA KANALA</h1>
-<h3 align="center">"Empowering Seamless Software Delivery with Automation and Efficiency"</h3>
+<h3 align="center">"DevOps Specialist | Cloud Infrastructure Architect"</h1>
 
 
 - 👨‍💻 All of my Hashnode blogs (https://medium.com/@swethakanaladevops)
