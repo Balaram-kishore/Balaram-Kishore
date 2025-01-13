@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/swetha-kanala-7a529a2a9/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha kanala" height="30" width="40" /></a>
-<a href="(https://www.instagram.com/swethathummala_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="27vaibhav10" height="30" width="40" /></a>
-<a href="https://hashnode.com/swethakanala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="vaibhav upare" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/swetha-kanala-7a529a2a9/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha kanala" height="40" width="60" /></a>
+<a href="(https://www.instagram.com/swethathummala_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swethaMadanm" height="30" width="40" /></a>
+<a href="https://hashnode.com/swethakanala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="swetha kanala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
