@@ -14,5 +14,5 @@
 
 
 <h1><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swethakanala2015&show_icons=true&locale=en&layout=compact" alt="swethakanala2015" /></h1>
-<h1>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=swethakanala&show_icons=true&locale=en" alt="swethakanala2015" /></h1>
+<h1>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swethakanala&show_icons=true&locale=en" alt="swethakanala2015" /></h1>
 
