@@ -1,13 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm SWETHA KANALA</h1>
-<h3 align="center">"DevOps Specialist | Cloud Infrastructure Architect"</h1>
+<h1 align="center">Hi 👋, I'M SWETHA KANALA</h1>
+<h1 align="center">"DevOps Specialist | Cloud Infrastructure Architect"</h1>
 
 
 - 👨‍💻 All of my Hashnode blogs (https://medium.com/@swethakanaladevops)
 
 - 📫 How to reach me **swethakanaladevops@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="(https://www.linkedin.com/in/swetha-kanala-7a529a2a9/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swetha kanala" height="40" width="60" /></a>
 <a href="(https://www.instagram.com/swethathummala_/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swethaMadanm" height="30" width="40" /></a>
