@@ -1,9 +1,10 @@
+![Rethinking DevOps in 2025 (16)](https://github.com/user-attachments/assets/a6a97785-b502-48b0-89c4-ad6619c75d72)
 
 <h2 align="center">Hi 👋, 👋 Hi there! I'm Swetha Kanala – Cloud DevOps Engineer based in canada</h2>
 <h2 align="center">"DevOps Engineer"</h2
 
-- 👨‍💻  Welcome to my GitHub! With over 4 years of experience in building, automating, and optimizing cloud infrastructure, I’m passionate about creating scalable, efficient, and reliable systems. My journey started in QA, where I honed my troubleshooting skills and deepened my understanding of the software development lifecycle. Today, I specialize in modern DevOps practices, cloud-native solutions, and driving automation to empower teams and businesses.
-- 
+👨‍💻  Welcome to my GitHub! With over 4 years of experience in building, automating, and optimizing cloud infrastructure, I’m passionate about creating scalable, efficient, and reliable systems. My journey started in QA, where I honed my troubleshooting skills and deepened my understanding of the software development lifecycle. Today, I specialize in modern DevOps practices, cloud-native solutions, and driving automation to empower teams and businesses.
+
 🌟 Career Highlights
 Here are a few of my proudest accomplishments:
 At Stratosfy, I automated deployment pipelines and reduced deployment times by 40% while implementing Kubernetes clusters with 99.9% uptime SLA.
@@ -13,7 +14,6 @@ Additionally, I hold certifications like AWS Certified Solutions Architect – A
 
 🚀 Professional Projects
 I believe projects tell stories of growth, problem-solving, and impact. Here are some highlights from mine:
-
 Scalable CI/CD Pipeline Automation: I built a CI/CD pipeline using Jenkins, Kubernetes, and AWS. This effort reduced deployment failures by 30% and improved deployment speed across multiple microservices.
 Infrastructure as Code for Multi-Cloud Deployment: Using Terraform and Ansible, I deployed consistent multi-cloud infrastructure for staging and production environments.
 Monitoring and Logging System: I set up a comprehensive monitoring and alerting system using Prometheus and Grafana, giving teams real-time insights and drastically reducing incident response times.
@@ -23,8 +23,6 @@ Curiosity is what keeps me going. Right now, I’m diving deeper into advanced K
 
 📫 Let’s Connect
 If my work resonates with you or if you’d like to collaborate, feel free to reach out!
-
-How to reach me
 LinkedIn: https://www.linkedin.com/in/swetha-kanala-7a529a2a9/
 Email: swethakanaladevops@gmail.com
 
