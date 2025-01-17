@@ -7,6 +7,7 @@
 
 🌟 Career Highlights
 Here are a few of my proudest accomplishments:
+
 At Stratosfy, I automated deployment pipelines and reduced deployment times by 40% while implementing Kubernetes clusters with 99.9% uptime SLA.
 For stratosfy, I led a Terraform-based automation project that cut manual effort by 20%.
 I’ve also designed and implemented robust monitoring systems using Prometheus and Grafana, improving issue detection time by 50%.
@@ -14,6 +15,7 @@ Additionally, I hold certifications like AWS Certified Solutions Architect – A
 
 🚀 Professional Projects
 I believe projects tell stories of growth, problem-solving, and impact. Here are some highlights from mine:
+
 Scalable CI/CD Pipeline Automation: I built a CI/CD pipeline using Jenkins, Kubernetes, and AWS. This effort reduced deployment failures by 30% and improved deployment speed across multiple microservices.
 Infrastructure as Code for Multi-Cloud Deployment: Using Terraform and Ansible, I deployed consistent multi-cloud infrastructure for staging and production environments.
 Monitoring and Logging System: I set up a comprehensive monitoring and alerting system using Prometheus and Grafana, giving teams real-time insights and drastically reducing incident response times.
