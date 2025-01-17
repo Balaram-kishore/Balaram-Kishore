@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hi there! I'm Swetha Kanala – Cloud DevOps Engineer based in canada</h2>
 <h2 align="center">"DevOps Engineer"</h2
 
-👨‍💻  Welcome to my GitHub! With over 4 years of experience in building, automating, and optimizing cloud infrastructure, I’m passionate about creating scalable, efficient, and reliable systems. My journey started in QA, where I honed my troubleshooting skills and deepened my understanding of the software development lifecycle. Today, I specialize in modern DevOps practices, cloud-native solutions, and driving automation to empower teams and businesses.
+👨‍💻  Welcome to my GitHub! With over 3.5 years of experience in building, automating, and optimizing cloud infrastructure, I’m passionate about creating scalable, efficient, and reliable systems. My journey started in QA, where I honed my troubleshooting skills and deepened my understanding of the software development lifecycle. Today, I specialize in modern DevOps practices, cloud-native solutions, and driving automation to empower teams and businesses.
 
 🌟 Career Highlights
 Here are a few of my proudest accomplishments:
