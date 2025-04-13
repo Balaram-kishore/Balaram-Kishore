@@ -1,15 +1,15 @@
-![Rethinking DevOps in 2025 (16)](https://github.com/user-attachments/assets/a6a97785-b502-48b0-89c4-ad6619c75d72)
 
-<h2 align="center">👋 Hi there! I'm Swetha Kanala – Cloud DevOps Engineer based in canada</h2>
 
-👨‍💻  Welcome to my GitHub! With over 3+  years of experience in building, automating, and optimizing cloud infrastructure, I’m passionate about creating scalable, efficient, and reliable systems. My journey started in QA, where I honed my troubleshooting skills and deepened my understanding of the software development lifecycle. Today, I specialize in modern DevOps practices, cloud-native solutions, and driving automation to empower teams and businesses.
+<h2 align="center">👋 Hi there! I'm Balaram Kishore Gangireddy – Cloud / DevOps Engineer based in canada</h2>
+
+👨‍💻  Welcome to my GitHub! With over 5+  years of experience in building, automating, and optimizing cloud infrastructure, I’m passionate about creating scalable, efficient, and reliable systems. My journey started in QA, where I honed my troubleshooting skills and deepened my understanding of the software development lifecycle. Today, I specialize in modern DevOps practices, cloud-native solutions, and driving automation to empower teams and businesses.
 
 🌟 Career Highlights:
 
 At Stratosfy, I automated deployment pipelines and reduced deployment times by 40% while implementing Kubernetes clusters with 99.9% uptime SLA.
-For stratosfy, I led a Terraform-based automation project that cut manual effort by 20%.
+For Stratosfy, I led a Terraform-based automation project that cut manual effort by 20%.
 I’ve also designed and implemented robust monitoring systems using Prometheus and Grafana, improving issue detection time by 50%.
-Additionally, I hold certifications like AWS Certified Solutions Architect – Associate, Terraform Certified Associate, and Azure administrative associate, which validate my expertise in cloud and DevOps technologies.
+Additionally, I hold certifications such as AWS Certified Solutions Architect—Associate, Azure Administrator Associate, and Managing Cloud-native Applications with Kubernetes Red Hat validates my expertise in cloud and DevOps technologies.
 
 🤝 I'm open to collaborating on the following areas:
 
@@ -28,8 +28,8 @@ Continuous Improvement: I value constructive feedback as an opportunity to refin
 
 📫 Let’s Connect
 If my work resonates with you or if you’d like to collaborate, feel free to reach out!
-LinkedIn: https://www.linkedin.com/in/swetha-kanala-7a529a2a9/
-Email: swethakanaladevops@gmail.com
+LinkedIn: https://www.linkedin.com/in/balaram-kishore-gangireddy-938246252/
+Email: gbalaramkishore@gmail.com
 
 
 <h1 align="left">Languages and Tools:</h1>
