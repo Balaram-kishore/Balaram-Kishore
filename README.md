@@ -1,6 +1,4 @@
-
-
-<h2 align="center">👋 Hi there! I'm Balaram Kishore Gangireddy – Cloud / DevOps Engineer based in canada</h2>
+<h2 align="center">👋 Hi there! I'm Balaram Kishore Gangireddy – Cloud / DevOps Engineer based in Canada </h2>
 
 👨‍💻  Welcome to my GitHub! With over 5+  years of experience in building, automating, and optimizing cloud infrastructure, I’m passionate about creating scalable, efficient, and reliable systems. My journey started in QA, where I honed my troubleshooting skills and deepened my understanding of the software development lifecycle. Today, I specialize in modern DevOps practices, cloud-native solutions, and driving automation to empower teams and businesses.
 
